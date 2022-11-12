@@ -1,0 +1,23 @@
+[
+{
+     "Id": 1,
+     "Name": "Fernando", 
+     "Tatoos": ["Tatuagem 1", "Tatuagem 2", "Tatuagem 3"],
+     "Gender": "M",
+     "Number": "159999999999"
+},
+{
+     "Id": 2,
+     "Name": "Eduardo", 
+     "Tatoos": ["Tatuagem 1", "Tatuagem 2", "Tatuagem 3"],
+     "Gender": "M",
+     "Number": "159999999999"
+},
+{
+     "Id": 3,
+     "Name": "Leticia", 
+     "Tatoos": ["Tatuagem 1", "Tatuagem 2", "Tatuagem 3"],
+     "Gender": "F",
+     "Number": "159999999999"
+}
+]
